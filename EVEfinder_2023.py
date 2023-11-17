@@ -178,35 +178,6 @@ def extractERVs(csv, offset, genome, fasta, prefix):
         ERVs.append(currentERV)
         SeqIO.write(ERVs, (fasta+'_'+str(offset)+'_ERVs.fasta'), "fasta")
 
-def addAnnotations(csv, offset, fasta, genBank):
-    df = pd.read_csv(csv, sep='\t')
-    df = df.astype({'Gag': str, 'Pol':str, 'Env':str}, errors='raise')
-    df.sort_values(['ERVid'], inplace=True, ascending=True)
-    output_file = open((genBank + '_' + str(offset) + '_ERVs.gb'), 'w')
-
-    #reading fasta file in as sequence records
-    for record in SeqIO.parse(fasta + "_0_ERVs.fasta", "fasta"):
-        #ERVid = record.id.split(' ')[0][2:]
-        ERVid = record.id
-        subdf = df[df['ERVid'] == int(ERVid)] #finding the row in the dataframe of that ERV
-        genBankRecord = SeqRecord(record.seq, id=(prefix + "ERV" + ERVid), annotations={"molecule_type" : "DNA"}, description="endogenous retrovirus") #converting the sequence into a genbank sequence record
-
-        #if there are genes in the nrList file, add them as sequence features.
-        if ((subdf['gagStart']).isnull().values.any() == False):
-            gagFeature = SeqFeature(location=FeatureLocation(int(subdf['gagStart'] - (subdf['hitStart']-offset)), (int(subdf['gagEnd'] - (subdf['hitStart']-offset)))), type='gene', id="Gag", qualifiers={'name':"Gag", 'note':df['gagGenus'].mode().to_string(index=False)})
-            genBankRecord.features.append(gagFeature)
-        if ((subdf['polStart']).isnull().values.any() == False):
-             polFeature = SeqFeature(location=FeatureLocation(int(subdf['polStart'] - (subdf['hitStart']-offset)), (int(subdf['polEnd'] - (subdf['hitStart']-offset)))), type='gene', id="Pol", qualifiers={'name':"Pol", 'note':df['polGenus'].mode().to_string(index=False)})
-             genBankRecord.features.append(polFeature)
-        if ((subdf['envStart']).isnull().values.any() == False):
-             envFeature = SeqFeature(location=FeatureLocation(int(subdf['envStart'] - (subdf['hitStart']-offset)), (int(subdf['envEnd'] - (subdf['hitStart']-offset)))), type='gene', id="Env", qualifiers={'name':"Env", 'note':df['envGenus'].mode().to_string(index=False)})
-             genBankRecord.features.append(envFeature)
-
-        #add record to genbank file
-        SeqIO.write(genBankRecord, output_file, 'genbank')
-    output_file.close()
-
-
 # CHECK/CHANGE THESE BEFORE EACH RUN OF THIS SCRIPT
 BlastOutput = "BLAST/" + animal + '_tblastn.tsv' # output of initial genome blast
 ClassifiedBlastOutput = "BLAST/" + animal + '_tblastn_id.tsv' # non-redundant list of scaffold regions with hits
@@ -221,12 +192,11 @@ GTF = animal + '.gtf'
 
 # DO NOT CHANGE THINGS BELOW THIS LINE
 if len(prefix) == 2:
-    #assignIDs(BlastOutput, metadata, ClassifiedBlastOutput)
-    #makeNrlistRetro(ClassifiedBlastOutput, nrListOutput)
-    #makeGTF(nrListOutput, GTF)
-    #generateStats(nrListOutput, statFile)
+    assignIDs(BlastOutput, metadata, ClassifiedBlastOutput)
+    makeNrlistRetro(ClassifiedBlastOutput, nrListOutput)
+    makeGTF(nrListOutput, GTF)
+    generateStats(nrListOutput, statFile)
     extractERVs(nrListOutput, 0, genome, fasta, prefix)
-    #addAnnotations(nrListOutput, 0, fasta, genBank)
 
 else:
     print('Prefix is incorrect length.')
