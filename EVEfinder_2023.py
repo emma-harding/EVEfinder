@@ -106,7 +106,7 @@ def makeNrlistRetro(csv, output):
 
 def makeGTF(csv, GTF):
     df = pd.read_csv(csv, sep='\t')
-    gtfFrame = pd.DataFrame().assign(seqname=df['Scaffold'], source="EVEfinder", feature=df['Clade'], start=df['hitStart'], end=df['hitEnd'], score=".", strand="+", frame="0", attribute=df['ERVid'])
+    gtfFrame = pd.DataFrame().assign(seqname=df['Scaffold'], source="EVEfinder", feature=df['GeneraMode'], start=df['hitStart'], end=df['hitEnd'], score=".", strand="+", frame="0", attribute=df['ERVid'])
     gtfFrame['attribute'] = gtfFrame['attribute'].astype(str)
     gtfFrame.to_csv(GTF, index=False, sep='\t')
 
