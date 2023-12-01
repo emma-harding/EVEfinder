@@ -1,0 +1,483 @@
+Accession,Description,Gene,Virus,Subfamily,Genus,Class
+NP_040332,gag protein ,Gag,Friend murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_040333,"RNA-dependent DNA polymerase, partial ",Polymerase,Friend murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_040334,envelope protein ,Envelope,Friend murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_040504,v-myc (59/61 kDa) protein ,Other,Avian carcinoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_040548,envelope protein ,Envelope,Avian leukosis virus - RSA, Orthoretrovirinae, Alpharetrovirus,2
+NP_040549,trans-acting factor ,Other,Avian leukosis virus - RSA, Orthoretrovirinae, Alpharetrovirus,2
+NP_040550,"polymerase, partial ",Polymerase,Avian leukosis virus - RSA, Orthoretrovirinae, Alpharetrovirus,2
+NP_040562,gag polyprotein ,Gag,Bovine immunodeficiency virus, Orthoretrovirinae, Lentivirus,2
+NP_040563,"reverse transcriptase, partial ",Polymerase,Bovine immunodeficiency virus, Orthoretrovirinae, Lentivirus,2
+NP_040564,protein Q; putative ,Other,Bovine immunodeficiency virus, Orthoretrovirinae, Lentivirus,2
+NP_040565,protein S; putative ,Other,Bovine immunodeficiency virus, Orthoretrovirinae, Lentivirus,2
+NP_040566,envelope polyprotein ,Envelope,Bovine immunodeficiency virus, Orthoretrovirinae, Lentivirus,2
+NP_040839,gag protein ,Gag,Visna-maedi virus, Orthoretrovirinae, Lentivirus,2
+NP_040840,pol polyprotein ,Polymerase,Visna-maedi virus, Orthoretrovirinae, Lentivirus,2
+NP_040841,vif protein ,Other,Visna-maedi virus, Orthoretrovirinae, Lentivirus,2
+NP_040842,tat protein ,Other,Visna-maedi virus, Orthoretrovirinae, Lentivirus,2
+NP_040843,envelope polyprotein ,Envelope,Visna-maedi virus, Orthoretrovirinae, Lentivirus,2
+NP_040844,rev protein ,Other,Visna-maedi virus, Orthoretrovirinae, Lentivirus,2
+NP_040938,gag protein ,Gag,Caprine arthritis encephalitis virus, Orthoretrovirinae, Lentivirus,2
+NP_040939,pol protein ,Polymerase,Caprine arthritis encephalitis virus, Orthoretrovirinae, Lentivirus,2
+NP_040940,protein Q ,Other,Caprine arthritis encephalitis virus, Orthoretrovirinae, Lentivirus,2
+NP_040941,protein S ,Other,Caprine arthritis encephalitis virus, Orthoretrovirinae, Lentivirus,2
+NP_040942,envelope polyprotein ,Envelope,Caprine arthritis encephalitis virus, Orthoretrovirinae, Lentivirus,2
+NP_040943,trans-regulatory splicing-like protein ,Other,Caprine arthritis encephalitis virus, Orthoretrovirinae, Lentivirus,2
+NP_040972,gag protein ,Gag,Feline immunodeficiency virus, Orthoretrovirinae, Lentivirus,2
+NP_040973,"pol polyprotein, partial ",Polymerase,Feline immunodeficiency virus, Orthoretrovirinae, Lentivirus,2
+NP_040974,ORF 1 ,Other,Feline immunodeficiency virus, Orthoretrovirinae, Lentivirus,2
+NP_040975,ORF 2 ,Other,Feline immunodeficiency virus, Orthoretrovirinae, Lentivirus,2
+NP_040976,envelope polyprotein ,Envelope,Feline immunodeficiency virus, Orthoretrovirinae, Lentivirus,2
+NP_040977,ORF 3 ,Other,Feline immunodeficiency virus, Orthoretrovirinae, Lentivirus,2
+NP_041002,gag polyprotein ,Gag,Human T-lymphotropic virus 2, Orthoretrovirinae, Deltaretrovirus,2
+NP_041003,"pol polyprotein, partial ",Polymerase,Human T-lymphotropic virus 2, Orthoretrovirinae, Deltaretrovirus,2
+NP_041004,rex 26 kD protein ,Other,Human T-lymphotropic virus 2, Orthoretrovirinae, Deltaretrovirus,2
+NP_041005,tax protein ,Other,Human T-lymphotropic virus 2, Orthoretrovirinae, Deltaretrovirus,2
+NP_041006,"env propeptide, (putative; first expressed exon); putative ",Envelope,Human T-lymphotropic virus 2, Orthoretrovirinae, Deltaretrovirus,2
+NP_041184,gag protein ,Gag,Jaagsiekte sheep retrovirus, Orthoretrovirinae, Betaretrovirus,2
+NP_041185,neutral protease large subunit ,Other,Jaagsiekte sheep retrovirus, Orthoretrovirinae, Betaretrovirus,2
+NP_041186,pol protein ,Polymerase,Jaagsiekte sheep retrovirus, Orthoretrovirinae, Betaretrovirus,2
+NP_041187,hypothetical protein ,Other,Jaagsiekte sheep retrovirus, Orthoretrovirinae, Betaretrovirus,2
+NP_041188,envelope protein ,Envelope,Jaagsiekte sheep retrovirus, Orthoretrovirinae, Betaretrovirus,2
+NP_041237,gag-fos fusion protein ,Gag,Finkel-Biskis-Jinkins murine sarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_041249,gag protein ,Gag,Ovine lentivirus, Orthoretrovirinae, Lentivirus,2
+NP_041250,Q protein ,Other,Ovine lentivirus, Orthoretrovirinae, Lentivirus,2
+NP_041251,W protein ,Other,Ovine lentivirus, Orthoretrovirinae, Lentivirus,2
+NP_041252,tat protein ,Other,Ovine lentivirus, Orthoretrovirinae, Lentivirus,2
+NP_041253,env protein precursor ,Envelope,Ovine lentivirus, Orthoretrovirinae, Lentivirus,2
+NP_041259,gag protein ,Gag,Squirrel monkey retrovirus, Orthoretrovirinae, Betaretrovirus,2
+NP_041260,"protease, partial ",Protease,Squirrel monkey retrovirus, Orthoretrovirinae, Betaretrovirus,2
+NP_041261,pol protein ,Polymerase,Squirrel monkey retrovirus, Orthoretrovirinae, Betaretrovirus,2
+NP_041262,envelope glycoprotein ,Envelope,Squirrel monkey retrovirus, Orthoretrovirinae, Betaretrovirus,2
+NP_042289,P68 protein ,Other,UR2 sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_042683,gag-pol precursor ,"Gag, Polymerase",Jembrana disease virus, Orthoretrovirinae, Lentivirus,2
+NP_042684,gag precursor ,Gag,Jembrana disease virus, Orthoretrovirinae, Lentivirus,2
+NP_042685,vif protein ,Other,Jembrana disease virus, Orthoretrovirinae, Lentivirus,2
+NP_042686,alternative tat protein ,Other,Jembrana disease virus, Orthoretrovirinae, Lentivirus,2
+NP_042687,tat protein ,Other,Jembrana disease virus, Orthoretrovirinae, Lentivirus,2
+NP_042688,env precursor ,Envelope,Jembrana disease virus, Orthoretrovirinae, Lentivirus,2
+NP_042689,alternative rev protein ,Other,Jembrana disease virus, Orthoretrovirinae, Lentivirus,2
+NP_042690,rev protein ,Other,Jembrana disease virus, Orthoretrovirinae, Lentivirus,2
+NP_042691,tmx protein ,Other,Jembrana disease virus, Orthoretrovirinae, Lentivirus,2
+NP_043518,hypothetical protein ,Other,Murine type C retrovirus, Orthoretrovirinae, Gammaretrovirus,1
+NP_043519,hypothetical protein ,Other,Murine type C retrovirus, Orthoretrovirinae, Gammaretrovirus,1
+NP_043922,hypothetical protein SnRVgp1 ,Other,Snakehead retrovirus, Orthoretrovirinae, unclassified Orthoretrovirinae,
+NP_043923,envelope protein ,Envelope,Snakehead retrovirus, Orthoretrovirinae, unclassified Orthoretrovirinae,
+NP_043924,gag-pol polyprotein ,"Gag, Polymerase",Snakehead retrovirus, Orthoretrovirinae, unclassified Orthoretrovirinae,
+NP_043925,gag polyprotein ,Gag,Snakehead retrovirus, Orthoretrovirinae, unclassified Orthoretrovirinae,
+NP_043926,hypothetical protein SnRVgp1 ,Other,Snakehead retrovirus, Orthoretrovirinae, unclassified Orthoretrovirinae,
+NP_043927,hypothetical protein SnRVgp1 ,Other,Snakehead retrovirus, Orthoretrovirinae, unclassified Orthoretrovirinae,
+NP_043928,hypothetical protein SnRVgp6 ,Other,Snakehead retrovirus, Orthoretrovirinae, unclassified Orthoretrovirinae,
+NP_044928,gag polyprotein ,Gag,Bovine foamy virus, Spumaretrovirinae,Spumavirus,3
+NP_044929,pol polyprotein ,Polymerase,Bovine foamy virus, Spumaretrovirinae,Spumavirus,3
+NP_044930,envelope protein ,Envelope,Bovine foamy virus, Spumaretrovirinae,Spumavirus,3
+NP_044931,Borf-1 ,Other,Bovine foamy virus, Spumaretrovirinae,Spumavirus,3
+NP_044932,Borf-2 ,Other,Bovine foamy virus, Spumaretrovirinae,Spumavirus,3
+NP_045935,p110 ,Other,Avian myelocytomatosis virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_045936,hypothetical protein WDSVgp3 ,Other,Walleye dermal sarcoma virus, Orthoretrovirinae, Epsilonretrovirus,1
+NP_045937,Pr gag-pro-pol ,"Gag, Protease, Polymerase",Walleye dermal sarcoma virus, Orthoretrovirinae, Epsilonretrovirus,1
+NP_045938,Pr gag ,Gag,Walleye dermal sarcoma virus, Orthoretrovirinae, Epsilonretrovirus,1
+NP_045939,gPr env ,Envelope,Walleye dermal sarcoma virus, Orthoretrovirinae, Epsilonretrovirus,1
+NP_045940,hypothetical protein WDSVgp6 ,Other,Walleye dermal sarcoma virus, Orthoretrovirinae, Epsilonretrovirus,1
+NP_045941,hypothetical protein WDSVgp7 ,Other,Walleye dermal sarcoma virus, Orthoretrovirinae, Epsilonretrovirus,1
+NP_047255,Gag-Pro-Pol precursor polyprotein gPr80 ,"Gag, Protease, Polymerase",Feline leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_047256,Env polyprotein ,Envelope,Feline leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_049558,gag polyprotein ,Gag,Primate T-lymphotropic virus 1, Orthoretrovirinae, Deltaretrovirus,2
+NP_049559,protease ,Protease,Primate T-lymphotropic virus 1, Orthoretrovirinae, Deltaretrovirus,2
+NP_049560,reverse transcriptase/envelope protein ,"Polymerase, Envelope",Primate T-lymphotropic virus 1, Orthoretrovirinae, Deltaretrovirus,2
+NP_049561,tax protein ,Other,Primate T-lymphotropic virus 1, Orthoretrovirinae, Deltaretrovirus,2
+NP_054369,gag protein ,Gag,Simian immunodeficiency virus, Orthoretrovirinae, Lentivirus,2
+NP_054370,vif protein ,Other,Simian immunodeficiency virus, Orthoretrovirinae, Lentivirus,2
+NP_054371,vpx protein ,Other,Simian immunodeficiency virus, Orthoretrovirinae, Lentivirus,2
+NP_054372,envelope protein ,Envelope,Simian immunodeficiency virus, Orthoretrovirinae, Lentivirus,2
+NP_054373,nef protein ,Other,Simian immunodeficiency virus, Orthoretrovirinae, Lentivirus,2
+NP_054715,Gag ,Gag,Equine foamy virus, Spumaretrovirinae,Spumavirus,3
+NP_054716,Pol ,Polymerase,Equine foamy virus, Spumaretrovirinae,Spumavirus,3
+NP_054717,Env ,Envelope,Equine foamy virus, Spumaretrovirinae,Spumavirus,3
+NP_054718,ORF1/Tas/Bel1 ,Other,Equine foamy virus, Spumaretrovirinae,Spumavirus,3
+NP_054719,Bel2 ,Other,Equine foamy virus, Spumaretrovirinae,Spumavirus,3
+NP_056789,gag polyprotein ,Gag,Gibbon ape leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_056790,"pol polyprotein, partial ",Polymerase,Gibbon ape leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_056791,env protein ,Envelope,Gibbon ape leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_056802,gag protein ,Gag,Simian foamy virus, Spumaretrovirinae, Spumavirus,3
+NP_056803,"pol polyprotein, partial ",Polymerase,Simian foamy virus, Spumaretrovirinae, Spumavirus,3
+NP_056804,envelope protein ,Envelope,Simian foamy virus, Spumaretrovirinae, Spumavirus,3
+NP_056805,taf protein ,Other,Simian foamy virus, Spumaretrovirinae, Spumavirus,3
+NP_056806,"bet protein, partial ",Other,Simian foamy virus, Spumaretrovirinae, Spumavirus,3
+NP_056837,gag polyprotein ,Gag,Human immunodeficiency virus 2, Orthoretrovirinae, Lentivirus,2
+NP_056839,vif protein ,Other,Human immunodeficiency virus 2, Orthoretrovirinae, Lentivirus,2
+NP_056840,vpx protein ,Other,Human immunodeficiency virus 2, Orthoretrovirinae, Lentivirus,2
+NP_056841,vpr protein ,Other,Human immunodeficiency virus 2, Orthoretrovirinae, Lentivirus,2
+NP_056842,tat protein ,Other,Human immunodeficiency virus 2, Orthoretrovirinae, Lentivirus,2
+NP_056843,rev protein ,Other,Human immunodeficiency virus 2, Orthoretrovirinae, Lentivirus,2
+NP_056844,env polyprotein ,Envelope,Human immunodeficiency virus 2, Orthoretrovirinae, Lentivirus,2
+NP_056845,nef protein ,Other,Human immunodeficiency virus 2, Orthoretrovirinae, Lentivirus,2
+NP_056880,Pr160 ,Other,Mouse mammary tumor virus, Orthoretrovirinae, Betaretrovirus,2
+NP_056881,Pr110 ,Other,Mouse mammary tumor virus, Orthoretrovirinae, Betaretrovirus,2
+NP_056882,Pr77 ,Other,Mouse mammary tumor virus, Orthoretrovirinae, Betaretrovirus,2
+NP_056883,gPr73 ,Other,Mouse mammary tumor virus, Orthoretrovirinae, Betaretrovirus,2
+NP_056884,Pr48 ,Other,Mouse mammary tumor virus, Orthoretrovirinae, Betaretrovirus,2
+NP_056885,gPr95 polyprotein precursor ,Other,Rous sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_056886,Pr180 polyprotein precursor ,Other,Rous sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_056887,Pr76 polyprotein precursor ,Other,Rous sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_056888,p60 src ,Other,Rous sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_056889,p140 polyprotein ,Other,Fujinami sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_056890,gag polyprotein ,Gag,Murine osteosarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_056891,RT-IN ,Polymerase,Mason-Pfizer monkey virus, Orthoretrovirinae, Betaretrovirus,2
+NP_056892,Pr95 ,Other,Mason-Pfizer monkey virus, Orthoretrovirinae, Betaretrovirus,2
+NP_056893,Pr78 ,Other,Mason-Pfizer monkey virus, Orthoretrovirinae, Betaretrovirus,2
+NP_056894,gp70 SU ,Other,Mason-Pfizer monkey virus, Orthoretrovirinae, Betaretrovirus,2
+NP_056895,RT-IN ,Polymerase,Bovine leukemia virus, Orthoretrovirinae, Deltaretrovirus,2
+NP_056896,Pr66 ,Other,Bovine leukemia virus, Orthoretrovirinae, Deltaretrovirus,2
+NP_056897,Pr44 ,Other,Bovine leukemia virus, Orthoretrovirinae, Deltaretrovirus,2
+NP_056898,p18 ,Other,Bovine leukemia virus, Orthoretrovirinae, Deltaretrovirus,2
+NP_056899,gp60 SU ,Other,Bovine leukemia virus, Orthoretrovirinae, Deltaretrovirus,2
+NP_056900,p34 ,Other,Bovine leukemia virus, Orthoretrovirinae, Deltaretrovirus,2
+NP_056901,gag protein ,Gag,Equine infectious anemia virus, Orthoretrovirinae, Lentivirus,2
+NP_056902,pol polyprotein ,Polymerase,Equine infectious anemia virus, Orthoretrovirinae, Lentivirus,2
+NP_056903,envelope polyprotein ,Envelope,Equine infectious anemia virus, Orthoretrovirinae, Lentivirus,2
+NP_056904,"hypothetical protein, partial ",Other,Equine infectious anemia virus, Orthoretrovirinae, Lentivirus,2
+NP_056907,gag-pro-pol polyprotein ,"Gag, Protease, Polymerase",Simian T-lymphotropic virus 2, Orthoretrovirinae, Deltaretrovirus,2
+NP_056908,rex protein ,Other,Simian T-lymphotropic virus 2, Orthoretrovirinae, Deltaretrovirus,2
+NP_056909,hypothetical protein STLV2gp06 ,Other,Simian T-lymphotropic virus 2, Orthoretrovirinae, Deltaretrovirus,2
+NP_056910,tax protein ,Other,Simian T-lymphotropic virus 2, Orthoretrovirinae, Deltaretrovirus,2
+NP_056911,hypothetical protein STLV2gp08 ,Other,Simian T-lymphotropic virus 2, Orthoretrovirinae, Deltaretrovirus,2
+NP_056912,hypothetical protein STLV2gp09 ,Other,Simian T-lymphotropic virus 2, Orthoretrovirinae, Deltaretrovirus,2
+NP_056913,hypothetical protein STLV2gp10 ,Other,Simian T-lymphotropic virus 2, Orthoretrovirinae, Deltaretrovirus,2
+NP_057849,Gag-Pol ,"Gag, Polymerase",Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_057850,Pr55(Gag) ,Gag,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_057851,Vif ,Other,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_057852,Vpr ,Other,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_057853,Tat ,Other,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_057854,Rev ,Other,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_057855,Vpu ,Other,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_057856,"Envelope surface glycoprotein gp160, precursor ",Envelope,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_057857,Nef ,Other,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_057858,Pr65 ,Other,Moloney murine sarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_057859,MOS ,Other,Moloney murine sarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_057860,Pr gag-pro-pol ,"Gag, Protease, Polymerase",Human T-cell leukemia virus type I, Orthoretrovirinae, Deltaretrovirus,2
+NP_057861,Pr gag-pro ,"Gag, Protease",Human T-cell leukemia virus type I, Orthoretrovirinae, Deltaretrovirus,2
+NP_057862,Pr55 ,Other,Human T-cell leukemia virus type I, Orthoretrovirinae, Deltaretrovirus,2
+NP_057863,p27 ,Other,Human T-cell leukemia virus type I, Orthoretrovirinae, Deltaretrovirus,2
+NP_057864,p40 ,Other,Human T-cell leukemia virus type I, Orthoretrovirinae, Deltaretrovirus,2
+NP_057865,gp46 SU ,Other,Human T-cell leukemia virus type I, Orthoretrovirinae, Deltaretrovirus,2
+NP_057866,p120 Gag-Abl polyprotein ,Gag,Abelson murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_057933,Pr180 ,Other,Moloney murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_057934,Pr65 ,Other,Moloney murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_057935,gPr80 ,Other,Moloney murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_542256,gag polyprotein ,Gag,Primate T-lymphotropic virus 3, Orthoretrovirinae, Deltaretrovirus,2
+NP_542257,"protease, partial ",Protease,Primate T-lymphotropic virus 3, Orthoretrovirinae, Deltaretrovirus,2
+NP_542258,"polymerase, partial ",Polymerase,Primate T-lymphotropic virus 3, Orthoretrovirinae, Deltaretrovirus,2
+NP_542259,rex protein ,Other,Primate T-lymphotropic virus 3, Orthoretrovirinae, Deltaretrovirus,2
+NP_542260,tax protein ,Other,Primate T-lymphotropic virus 3, Orthoretrovirinae, Deltaretrovirus,2
+NP_579876,matrix ,Other,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_579880,capsid ,Other,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_579881,nucleocapsid ,Other,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_579882,p2 ,Other,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_579883,p6 ,Other,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_579893,unnamed protein product ,Other,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_579894,Envelope surface glycoprotein gp120 ,Envelope,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_579895,Envelope transmembrane glycoprotein gp41 ,Envelope,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_597745,"bet protein fragment, partial ",Other,Simian foamy virus, Spumaretrovirinae, Spumavirus,3
+NP_597837,"putative env protein gp37, partial ",Envelope,UR2 sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_598369,hypothetical protein ,Other,Abelson murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_598370,env p15E protein fragment ,Envelope,Abelson murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_598371,pol polyprotein fragment ,Polymerase,Moloney murine sarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_598373,envelope protein fragment ,Envelope,Moloney murine sarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_598374,ubiquitin-like protein ,Other,Murine osteosarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_663784,gag-pol fusion polyprotein ,"Gag, Polymerase",Human immunodeficiency virus 2, Orthoretrovirinae, Lentivirus,2
+NP_687035,Gag-Pol ,"Gag, Polymerase",Simian immunodeficiency virus, Orthoretrovirinae, Lentivirus,2
+NP_705926,retropepsin ,Other,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_705927,reverse transcriptase ,Polymerase,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_705928,integrase ,Polymerase,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_758886,gag protein ,Gag,Simian immunodeficiency virus SIV-mnd 2, Orthoretrovirinae, Lentivirus,2
+NP_758887,"pol protein, partial ",Polymerase,Simian immunodeficiency virus SIV-mnd 2, Orthoretrovirinae, Lentivirus,2
+NP_758888,vif protein ,Other,Simian immunodeficiency virus SIV-mnd 2, Orthoretrovirinae, Lentivirus,2
+NP_758889,vpx protein ,Other,Simian immunodeficiency virus SIV-mnd 2, Orthoretrovirinae, Lentivirus,2
+NP_758890,vpr protein ,Other,Simian immunodeficiency virus SIV-mnd 2, Orthoretrovirinae, Lentivirus,2
+NP_758891,tat protein ,Other,Simian immunodeficiency virus SIV-mnd 2, Orthoretrovirinae, Lentivirus,2
+NP_758892,env protein ,Envelope,Simian immunodeficiency virus SIV-mnd 2, Orthoretrovirinae, Lentivirus,2
+NP_758893,nef protein ,Other,Simian immunodeficiency virus SIV-mnd 2, Orthoretrovirinae, Lentivirus,2
+NP_777379,p10 MA ,Other,Bovine leukemia virus, Orthoretrovirinae, Deltaretrovirus,2
+NP_777380,p4 ,Other,Bovine leukemia virus, Orthoretrovirinae, Deltaretrovirus,2
+NP_777381,p24 CA ,Other,Bovine leukemia virus, Orthoretrovirinae, Deltaretrovirus,2
+NP_777382,p12 NC ,Other,Bovine leukemia virus, Orthoretrovirinae, Deltaretrovirus,2
+NP_777383,p14 PR ,Other,Bovine leukemia virus, Orthoretrovirinae, Deltaretrovirus,2
+NP_777384,RT-IN ,Polymerase,Bovine leukemia virus, Orthoretrovirinae, Deltaretrovirus,2
+NP_777385,gp60 SU ,Other,Bovine leukemia virus, Orthoretrovirinae, Deltaretrovirus,2
+NP_777386,p30 TM ,Other,Bovine leukemia virus, Orthoretrovirinae, Deltaretrovirus,2
+NP_787042,p1 ,Other,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_787043,Gag-Pol Transframe peptide ,"Gag, Polymerase",Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_789739,reverse transcriptase p51 subunit ,Polymerase,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_789740,Pol ,Polymerase,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+NP_862831,gag protein ,Gag,Enzootic nasal tumour virus of goats, Orthoretrovirinae, Betaretrovirus,2
+NP_862832,"gag-pro fusion, partial ","Gag, Protease",Enzootic nasal tumour virus of goats, Orthoretrovirinae, Betaretrovirus,2
+NP_862833,"gag-pro-pol fusion, partial ","Gag, Protease, Polymerase",Enzootic nasal tumour virus of goats, Orthoretrovirinae, Betaretrovirus,2
+NP_862834,envelope protein ,Envelope,Enzootic nasal tumour virus of goats, Orthoretrovirinae, Betaretrovirus,2
+NP_954554,env protein ,Envelope,Ovine lentivirus, Orthoretrovirinae, Lentivirus,2
+NP_954556,p14 NC ,Other,Mason-Pfizer monkey virus, Orthoretrovirinae, Betaretrovirus,2
+NP_954557,p10 MA ,Other,Mason-Pfizer monkey virus, Orthoretrovirinae, Betaretrovirus,2
+NP_954558,p24 ,Other,Mason-Pfizer monkey virus, Orthoretrovirinae, Betaretrovirus,2
+NP_954559,p12 ,Other,Mason-Pfizer monkey virus, Orthoretrovirinae, Betaretrovirus,2
+NP_954560,p27 ,Other,Mason-Pfizer monkey virus, Orthoretrovirinae, Betaretrovirus,2
+NP_954561,p12 PR ,Other,Mason-Pfizer monkey virus, Orthoretrovirinae, Betaretrovirus,2
+NP_954562,gp70 SU ,Other,Mason-Pfizer monkey virus, Orthoretrovirinae, Betaretrovirus,2
+NP_954563,gp20 TM ,Other,Mason-Pfizer monkey virus, Orthoretrovirinae, Betaretrovirus,2
+NP_954564,DU ,Other,Mason-Pfizer monkey virus, Orthoretrovirinae, Betaretrovirus,2
+NP_954565,RT-IN ,Polymerase,Mason-Pfizer monkey virus, Orthoretrovirinae, Betaretrovirus,2
+NP_954566,p19-gag protein ,Gag,2, Orthoretrovirinae, Deltaretrovirus,2
+NP_954567,p24-gag protein ,Gag,2, Orthoretrovirinae, Deltaretrovirus,2
+NP_954568,p15-gag protein ,Gag,2, Orthoretrovirinae, Deltaretrovirus,2
+NP_954569,p21E envelope protein ,Envelope,Human T-lymphotropic virus 2, Orthoretrovirinae, Deltaretrovirus,2
+NP_954570,unnamed ,Other,Simian T-lymphotropic virus 2, Orthoretrovirinae, Deltaretrovirus,2
+NP_954571,unnamed ,Other,Simian T-lymphotropic virus 2, Orthoretrovirinae, Deltaretrovirus,2
+NP_955526,MA ,Other,Moloney murine sarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955527,CA ,Other,Moloney murine sarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955528,NC ,Other,Moloney murine sarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955529,MOS ,Other,Moloney murine sarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955543,outer membrane protein ,Other,Squirrel monkey retrovirus, Orthoretrovirinae, Betaretrovirus,2
+NP_955544,transmembrane protein ,Other,Squirrel monkey retrovirus, Orthoretrovirinae, Betaretrovirus,2
+NP_955563,p14 NC ,Other,Mouse mammary tumor virus, Orthoretrovirinae, Betaretrovirus,2
+NP_955564,p30DU-p13PR-RT-IN ,Other,Mouse mammary tumor virus, Orthoretrovirinae, Betaretrovirus,2
+NP_955565,p10 MA ,Other,Mouse mammary tumor virus, Orthoretrovirinae, Betaretrovirus,2
+NP_955566,pp21 XX ,Other,Mouse mammary tumor virus, Orthoretrovirinae, Betaretrovirus,2
+NP_955567,p3 ,Other,Mouse mammary tumor virus, Orthoretrovirinae, Betaretrovirus,2
+NP_955568,p8 ,Other,Mouse mammary tumor virus, Orthoretrovirinae, Betaretrovirus,2
+NP_955569,p27 CA ,Other,Mouse mammary tumor virus, Orthoretrovirinae, Betaretrovirus,2
+NP_955570,gp52 SU ,Other,Mouse mammary tumor virus, Orthoretrovirinae, Betaretrovirus,2
+NP_955571,gp36 TM ,Other,Mouse mammary tumor virus, Orthoretrovirinae, Betaretrovirus,2
+NP_955572,virion core structural peptide p15 ,Other,Feline leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955573,virion core structural peptide p12 ,Other,Feline leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955574,virion core structural peptide p27 ,Other,Feline leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955575,virion core structural peptide p10 ,Other,Feline leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955576,gag gene polyprotein Pr65-gag ,Gag,Feline leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955577,pol gene polyprotein ,Polymerase,Feline leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955578,protease ,Protease,Feline leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955579,reverse transcriptase ,Polymerase,Feline leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955580,endonuclease/integrase ,Polymerase,Feline leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955581,gp70 protein ,Other,Feline leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955582,p15E protein ,Other,Feline leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955583,p15 MA ,Other,Moloney murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955584,pp12 ,Other,Moloney murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955585,p30 CA ,Other,Moloney murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955586,p10 NC ,Other,Moloney murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955587,gp70 SU ,Other,Moloney murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955588,p12E TM ,Other,Moloney murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955589,p15E ,Other,Moloney murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955590,p14 PR ,Other,Moloney murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955591,p80 RT ,Polymerase,Moloney murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955592,p46 IN ,Polymerase,Moloney murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955593,MA ,Other,Abelson murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955594,CA ,Other,Abelson murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955595,ABL ,Other,Abelson murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955596,MA ,Other,Murine osteosarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955597,CA ,Other,Murine osteosarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955598,FOS ,Other,Murine osteosarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+NP_955599,p19 MA ,Other,Avian myelocytomatosis virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_955600,p10 ,Other,Avian myelocytomatosis virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_955601,CA ,Other,Avian myelocytomatosis virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_955602,MYC ,Other,Avian myelocytomatosis virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_955603,p14 MA ,Other,Fujinami sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_955604,p10 ,Other,Fujinami sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_955605,CA ,Other,Fujinami sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_955606,FBS ,Other,Fujinami sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_955607,p19 ,Other,Rous sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_955608,pp10 ,Other,Rous sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_955609,p27 CA ,Other,Rous sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_955610,p12 NC ,Other,Rous sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_955611,p68a RT ,Polymerase,Rous sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_955612,p32 IN ,Polymerase,Rous sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_955613,p15 PR ,Other,Rous sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_955614,gp85 SU ,Other,Rous sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_955615,gp37 TM ,Other,Rous sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_955616,pp60 SRC ,Other,Rous sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+NP_955617,p19 MA ,Other,Human T-cell leukemia virus type I, Orthoretrovirinae, Deltaretrovirus,2
+NP_955618,p24 CA ,Other,Human T-cell leukemia virus type I, Orthoretrovirinae, Deltaretrovirus,2
+NP_955619,p15NC-p14PR-p95RT/IN ,Polymerase,Human T-cell leukemia virus type I, Orthoretrovirinae, Deltaretrovirus,2
+NP_955620,gp46 SU ,Other,Human T-cell leukemia virus type I, Orthoretrovirinae, Deltaretrovirus,2
+NP_955621,p21 TM ,Other,Human T-cell leukemia virus type I, Orthoretrovirinae, Deltaretrovirus,2
+YP_031678,Gag-env fusion protein ,"Gag, Envelope",Avian endogenous retrovirus EAV-HP,Unknown,Unknown,
+YP_223870,gag protein ,Gag,Reticuloendotheliosis virus, Orthoretrovirinae, Gammaretrovirus,1
+YP_223871,"protease/polymerase, partial ","Protease, Polymerase",Reticuloendotheliosis virus, Orthoretrovirinae, Gammaretrovirus,1
+YP_223872,envelope glycoprotein ,Envelope,Reticuloendotheliosis virus, Orthoretrovirinae, Gammaretrovirus,1
+YP_238302,gag ,Gag,Ovine enzootic nasal tumor virus, Orthoretrovirinae, Betaretrovirus,2
+YP_238303,env ,Envelope,Ovine enzootic nasal tumor virus, Orthoretrovirinae, Betaretrovirus,2
+YP_241111,env SU protein ,Envelope,Ovine enzootic nasal tumor virus, Orthoretrovirinae, Betaretrovirus,2
+YP_241112,env TM protein ,Envelope,Ovine enzootic nasal tumor virus, Orthoretrovirinae, Betaretrovirus,2
+YP_241113,"gap-pro fusion, partial ","Gag, Protease",Ovine enzootic nasal tumor virus, Orthoretrovirinae, Betaretrovirus,2
+YP_241114,"gap-pro-pol fusion, partial ","Gag, Protease, Polymerase",Ovine enzootic nasal tumor virus, Orthoretrovirinae, Betaretrovirus,2
+YP_443921,leader peptide ,Other,Atlantic salmon swim bladder sarcoma virus,Unknown,Unknown,
+YP_443922,polyprotein ,Other,Atlantic salmon swim bladder sarcoma virus,Unknown,Unknown,
+YP_443923,envelope protein ,Envelope,Atlantic salmon swim bladder sarcoma virus,Unknown,Unknown,
+YP_567048,gag protein ,Gag,Simian T-lymphotropic virus 2, Orthoretrovirinae, Deltaretrovirus,2
+YP_567049,protease ,Protease,Simian T-lymphotropic virus 2, Orthoretrovirinae, Deltaretrovirus,2
+YP_567050,pol protein ,Polymerase,Simian T-lymphotropic virus 2, Orthoretrovirinae, Deltaretrovirus,2
+YP_628286,protein-tyrosine kinase ,Other,Y73 sarcoma virus, Orthoretrovirinae, Alpharetrovirus,2
+YP_656508,p2E ,Other,Moloney murine leukemia virus, Orthoretrovirinae, Gammaretrovirus,1
+YP_001165469,"hypothetical protein WMSV_gp1, partial ",Other,Woolly monkey sarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+YP_001165470,"hypothetical protein WMSV_gp2, partial ",Other,Woolly monkey sarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+YP_001165471,hypothetical protein WMSV_gp3 ,Other,Woolly monkey sarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+YP_001165472,"hypothetical protein WMSV_gp4, partial ",Other,Woolly monkey sarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+YP_001497148,gag-pol precursor polyprotein ,"Gag, Polymerase",RD114 retrovirus, Orthoretrovirinae, Gammaretrovirus,1
+YP_001497149,envelope glycoprotein ,Envelope,RD114 retrovirus, Orthoretrovirinae, Gammaretrovirus,1
+YP_001856241,retropepsin ,Other,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+YP_001856242,reverse transcriptase ,Polymerase,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+YP_001856243,integrase ,Polymerase,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,2
+YP_001956721,Gag ,Gag,African green monkey simian foamy virus, Spumaretrovirinae, Spumavirus,3
+YP_001956722,Pol precursor ,Polymerase,African green monkey simian foamy virus, Spumaretrovirinae, Spumavirus,3
+YP_001956723,Env ,Envelope,African green monkey simian foamy virus, Spumaretrovirinae, Spumavirus,3
+YP_001956724,Tas ,Other,African green monkey simian foamy virus, Spumaretrovirinae, Spumavirus,3
+YP_001956725,Bet ,Other,African green monkey simian foamy virus, Spumaretrovirinae, Spumavirus,3
+YP_001974420,hypothetical protein Xen1_gp1 ,Other,Xenopus laevis endogenous retrovirus Xen1,Unknown,Unknown,
+YP_001974421,hypothetical protein Xen1_gp2 ,Other,Xenopus laevis endogenous retrovirus Xen1,Unknown,Unknown,
+YP_002308472,gag protein ,Gag,Simian T-cell lymphotropic virus 6, Orthoretrovirinae, Deltaretrovirus,2
+YP_002308473,"pro protein, partial ",Protease,Simian T-cell lymphotropic virus 6, Orthoretrovirinae, Deltaretrovirus,2
+YP_002308474,"pol protein, partial ",Polymerase,Simian T-cell lymphotropic virus 6, Orthoretrovirinae, Deltaretrovirus,2
+YP_002308475,rex protein ,Other,Simian T-cell lymphotropic virus 6, Orthoretrovirinae, Deltaretrovirus,2
+YP_002308476,tax protein ,Other,Simian T-cell lymphotropic virus 6, Orthoretrovirinae, Deltaretrovirus,2
+YP_002308477,envelope glycoprotein ,Envelope,Simian T-cell lymphotropic virus 6, Orthoretrovirinae, Deltaretrovirus,2
+YP_002455784,group specific antigen ,Other,Human T-lymphotropic virus 4, Orthoretrovirinae, Deltaretrovirus,2
+YP_002455785,protease ,Protease,Human T-lymphotropic virus 4, Orthoretrovirinae, Deltaretrovirus,2
+YP_002455786,polymerase ,Polymerase,Human T-lymphotropic virus 4, Orthoretrovirinae, Deltaretrovirus,2
+YP_002455787,rex protein ,Other,Human T-lymphotropic virus 4, Orthoretrovirinae, Deltaretrovirus,2
+YP_002455788,tax protein ,Other,Human T-lymphotropic virus 4, Orthoretrovirinae, Deltaretrovirus,2
+YP_002455789,envelope glycoprotein ,Envelope,Human T-lymphotropic virus 4, Orthoretrovirinae, Deltaretrovirus,2
+YP_003864100,gag protein ,Gag,Simian retrovirus 4, Orthoretrovirinae, Betaretrovirus,2
+YP_003864101,"protease, partial ",Protease,Simian retrovirus 4, Orthoretrovirinae, Betaretrovirus,2
+YP_003864102,"pol protein, partial ",Polymerase,Simian retrovirus 4, Orthoretrovirinae, Betaretrovirus,2
+YP_003864103,envelope protein ,Envelope,Simian retrovirus 4, Orthoretrovirinae, Betaretrovirus,2
+YP_004222726,envelope protein ,Envelope,Avian leukemia virus, Orthoretrovirinae, Alpharetrovirus,2
+YP_004222727,gag polyprotein ,Gag,Avian leukemia virus, Orthoretrovirinae, Alpharetrovirus,2
+YP_004222728,"pol polyprotein, partial ",Polymerase,Avian leukemia virus, Orthoretrovirinae, Alpharetrovirus,2
+YP_004680223,truncated gag-pro-pol ,"Gag, Protease, Polymerase",PreXMRV-1, Orthoretrovirinae, Gammaretrovirus,1
+YP_004680224,putative envelope polyprotein ,Envelope,PreXMRV-1, Orthoretrovirinae, Gammaretrovirus,1
+YP_008603282,putative env ,Envelope,Human endogenous retrovirus K113,Unknown,Unknown,
+YP_008992013,polyprotein ,Other,Citrus endogenous pararetrovirus,Unknown,Unknown,
+YP_008992014,hypothetical protein ,Other,Citrus endogenous pararetrovirus,Unknown,Unknown,
+YP_008992015,RNase_H ,Polymerase,Citrus endogenous pararetrovirus,Unknown,Unknown,
+YP_008992016,Vps51/Vps67 ,Other,Citrus endogenous pararetrovirus,Unknown,Unknown,
+YP_008992017,viral movement protein ,Other,Citrus endogenous pararetrovirus,Unknown,Unknown,
+YP_009028572,Asp ,Other,Human immunodeficiency virus 1, Orthoretrovirinae, Lentivirus,
+YP_009109689,gag-pol precursor polyprotein ,"Gag, Polymerase",Baboon endogenous virus strain M7, Orthoretrovirinae, Gammaretrovirus,1
+YP_009109690,polyprotein ,Other,Baboon endogenous virus strain M7, Orthoretrovirinae, Gammaretrovirus,1
+YP_009109691,polyprotein ,Other,Baboon endogenous virus strain M7, Orthoretrovirinae, Gammaretrovirus,1
+YP_009109692,polyprotein ,Other,Baboon endogenous virus strain M7, Orthoretrovirinae, Gammaretrovirus,1
+YP_009109693,protease ,Protease,Baboon endogenous virus strain M7, Orthoretrovirinae, Gammaretrovirus,1
+YP_009109694,reverse transcriptase ,Polymerase,Baboon endogenous virus strain M7, Orthoretrovirinae, Gammaretrovirus,1
+YP_009109695,endonuclease ,Other,Baboon endogenous virus strain M7, Orthoretrovirinae, Gammaretrovirus,1
+YP_009109696,p12 protein ,Other,Baboon endogenous virus strain M7, Orthoretrovirinae, Gammaretrovirus,1
+YP_009109697,p15 protein ,Other,Baboon endogenous virus strain M7, Orthoretrovirinae, Gammaretrovirus,1
+YP_009109698,p30 protein ,Other,Baboon endogenous virus strain M7, Orthoretrovirinae, Gammaretrovirus,1
+YP_009109699,p10 protein ,Other,Baboon endogenous virus strain M7, Orthoretrovirinae, Gammaretrovirus,1
+YP_009109700,gp70 ,Other,Baboon endogenous virus strain M7, Orthoretrovirinae, Gammaretrovirus,1
+YP_009109701,p20E ,Other,Baboon endogenous virus strain M7, Orthoretrovirinae, Gammaretrovirus,1
+YP_009140128,gag ,Gag,Desmodus rotundus endogenous retrovirus, Orthoretrovirinae, Betaretrovirus,2
+YP_009140129,protease ,Protease,Desmodus rotundus endogenous retrovirus, Orthoretrovirinae, Betaretrovirus,2
+YP_009243639,putative group-specific antigen ,Other,Bovine retrovirus CH15, Orthoretrovirinae, Betaretrovirus,2
+YP_009243640,putative protease ,Protease,Bovine retrovirus CH15, Orthoretrovirinae, Betaretrovirus,2
+YP_009243641,putative viral DNA polymerase ,Polymerase,Bovine retrovirus CH15, Orthoretrovirinae, Betaretrovirus,2
+YP_009243642,putative envelope protein ,Envelope,Bovine retrovirus CH15, Orthoretrovirinae, Betaretrovirus,2
+YP_009243643,truncated gag-pol polyprotein ,"Gag, Polymerase",Mus musculus mobilized endogenous polytropic provirus, Orthoretrovirinae, Gammaretrovirus,1
+YP_009243644,envelope protein ,Envelope,Mus musculus mobilized endogenous polytropic provirus, Orthoretrovirinae, Gammaretrovirus,1
+YP_009268869,"pol protein, partial ",Polymerase,Ovine lentivirus, Orthoretrovirinae, Lentivirus,2
+YP_009305199,gag protein ,Gag,Simian retrovirus 8, Orthoretrovirinae, Betaretrovirus,2
+YP_009305200,"protease, partial ",Protease,Simian retrovirus 8, Orthoretrovirinae, Betaretrovirus,2
+YP_009305201,"pol protein, partial ",Polymerase,Simian retrovirus 8, Orthoretrovirinae, Betaretrovirus,2
+YP_009305202,envelope protein ,Envelope,Simian retrovirus 8, Orthoretrovirinae, Betaretrovirus,2
+YP_009507788,protein p30 ,Other,Harvey murine sarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+YP_009507789,p21 v-has transforming protein ,Other,Harvey murine sarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+YP_009507790,gag ,Gag,Puma lentivirus 14, Orthoretrovirinae, Lentivirus,2
+YP_009507791,pol polyprotein ,Polymerase,Puma lentivirus 14, Orthoretrovirinae, Lentivirus,2
+YP_009507792,presumed viral infectivity factor ,Other,Puma lentivirus 14, Orthoretrovirinae, Lentivirus,2
+YP_009507793,envelope precursor ,Envelope,Puma lentivirus 14, Orthoretrovirinae, Lentivirus,2
+YP_009508242,p47(gag-crk) ,Other,Avian sarcoma virus CT10, Orthoretrovirinae, Alpharetrovirus,2
+YP_009508243,unnamed protein product ,Other,Feline sarcoma virus (STRAIN HARDY-ZUCKERMAN 4), Orthoretrovirinae, Gammaretrovirus,1
+YP_009508536,Gag ,Gag,Puma feline foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508537,Pol ,Polymerase,Puma feline foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508538,Env ,Envelope,Puma feline foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508539,Bel1 ,Other,Puma feline foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508540,Bel2 ,Other,Puma feline foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508541,gag protein ,Gag,Brown greater galago prosimian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508542,env protein ,Envelope,Brown greater galago prosimian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508543,bel1 protein ,Other,Brown greater galago prosimian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508544,bel2 protein ,Other,Brown greater galago prosimian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508545,gag protein ,Gag,Central cimpanzee simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508546,pol protein ,Polymerase,Central cimpanzee simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508547,env protein ,Envelope,Central cimpanzee simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508548,bet protein ,Other,Central cimpanzee simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508549,tas protein ,Other,Central cimpanzee simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508550,gag protein ,Gag,Eastern chimpanzee simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508551,pol protein ,Polymerase,Eastern chimpanzee simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508552,envelope protein ,Envelope,Eastern chimpanzee simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508553,tas protein ,Other,Eastern chimpanzee simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508554,bel2 protein ,Other,Eastern chimpanzee simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508555,gag protein ,Gag,Japanese macaque simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508556,pol protein ,Polymerase,Japanese macaque simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508557,env protein ,Envelope,Japanese macaque simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508558,bet protein ,Other,Japanese macaque simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508559,tas protein ,Other,Japanese macaque simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508560,Gag ,Gag,Spider monkey simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508561,pol ,Polymerase,Spider monkey simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508562,env ,Envelope,Spider monkey simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508563,Tas ,Other,Spider monkey simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508564,bel2 ,Other,Spider monkey simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508565,gag ,Gag,Squirrel monkey simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508566,pol ,Polymerase,Squirrel monkey simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508567,env ,Envelope,Squirrel monkey simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508568,tas ,Other,Squirrel monkey simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508569,bel2 ,Other,Squirrel monkey simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508570,gag protein ,Gag,Western lowland gorilla simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508571,pol protein ,Polymerase,Western lowland gorilla simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508572,envelope protein ,Envelope,Western lowland gorilla simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508573,bet protein ,Other,Western lowland gorilla simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508574,tas protein ,Other,Western lowland gorilla simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508575,bel2 protein ,Other,Western lowland gorilla simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508576,gag ,Gag,White-tufted-ear marmoset simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508577,pol ,Polymerase,White-tufted-ear marmoset simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508578,env ,Envelope,White-tufted-ear marmoset simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508579,tas ,Other,White-tufted-ear marmoset simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508580,bel2 ,Other,White-tufted-ear marmoset simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508581,gag polyprotein ,Gag,Yellow-breasted capuchin simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508582,pol protein ,Polymerase,Yellow-breasted capuchin simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508583,env protein ,Envelope,Yellow-breasted capuchin simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508584,tas protein ,Other,Yellow-breasted capuchin simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508585,Bel2 protein ,Other,Yellow-breasted capuchin simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009508887,gag protein ,Gag,Simian foamy virus Pongo pygmaeus pygmaeus, Spumaretrovirinae,Spumavirus,3
+YP_009508888,polymerase ,Polymerase,Simian foamy virus Pongo pygmaeus pygmaeus, Spumaretrovirinae,Spumavirus,3
+YP_009508889,envelope glycoprotein ,Envelope,Simian foamy virus Pongo pygmaeus pygmaeus, Spumaretrovirinae,Spumavirus,3
+YP_009508890,Tas protein ,Other,Simian foamy virus Pongo pygmaeus pygmaeus, Spumaretrovirinae,Spumavirus,3
+YP_009508891,Bel-2 protein ,Other,Simian foamy virus Pongo pygmaeus pygmaeus, Spumaretrovirinae,Spumavirus,3
+YP_009509090,gag polypeptide ,Gag,Avian sarcoma virus CT10, Orthoretrovirinae, Alpharetrovirus,2
+YP_009509091,gag p15 protein (127 aa) ,Gag,Feline sarcoma virus (STRAIN HARDY-ZUCKERMAN 4), Orthoretrovirinae, Gammaretrovirus,1
+YP_009509092,gag p12 protein (70 aa) ,Gag,Feline sarcoma virus (STRAIN HARDY-ZUCKERMAN 4), Orthoretrovirinae, Gammaretrovirus,1
+YP_009509093,pol protein (6 aa) ,Polymerase,Feline sarcoma virus (STRAIN HARDY-ZUCKERMAN 4), Orthoretrovirinae, Gammaretrovirus,1
+YP_009509094,gag p30 protein (143 aa) (1241 is 2nd base in codon) ,Gag,Feline sarcoma virus (STRAIN HARDY-ZUCKERMAN 4), Orthoretrovirinae, Gammaretrovirus,1
+YP_009509095,v-kit protein (370 aa) (1242 is 3rd base in codon) ,Other,Feline sarcoma virus (STRAIN HARDY-ZUCKERMAN 4), Orthoretrovirinae, Gammaretrovirus,1
+YP_009513210,gag protein ,Gag,Koala retrovirus, Orthoretrovirinae, Gammaretrovirus,1
+YP_009513211,pol protein ,Polymerase,Koala retrovirus, Orthoretrovirinae, Gammaretrovirus,1
+YP_009513212,envelope protein ,Envelope,Koala retrovirus, Orthoretrovirinae, Gammaretrovirus,1
+YP_009513241,gag ,Gag,Rhesus macaque simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009513242,pol ,Polymerase,Rhesus macaque simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009513243,env ,Envelope,Rhesus macaque simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009513244,tas ,Other,Rhesus macaque simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009513245,bet ,Other,Rhesus macaque simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009513248,gag ,Gag,Feline foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009513249,pol ,Polymerase,Feline foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009513250,env ,Envelope,Feline foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009513251,bel1 ,Other,Feline foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009513252,bel2 ,Other,Feline foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009551601,glycoprotein ,Other,Saesbyeol virus,Unknown,Unknown,
+YP_009551602,RNA-dependent RNA polymerase ,Polymerase,Saesbyeol virus,Unknown,Unknown,
+YP_009551603,coat protein ,Other,Saesbyeol virus,Unknown,Unknown,
+YP_009665178,"gp70, partial ",Other,Endogenous langur type D retrovirus PO-1-Lu, Orthoretrovirinae, Betaretrovirus,2
+YP_009665179,"pol polyprotein, partial ",Polymerase,Walleye epidermal hyperplasia virus 1, Orthoretrovirinae, Epsilonretrovirus,1
+YP_009665180,"pol polyprotein, partial ",Polymerase,Walleye epidermal hyperplasia virus 2, Orthoretrovirinae, Epsilonretrovirus,1
+YP_009665181,"polymerase, partial ",Polymerase,Chick syncytial virus, Orthoretrovirinae, Gammaretrovirus,1
+YP_009665990,"RNA-dependent DNA polymerase, partial ",Polymerase,Avian myeloblastosis virus, Orthoretrovirinae, Alpharetrovirus,2
+YP_009665991,transforming protein ,Other,Avian myeloblastosis virus, Orthoretrovirinae, Alpharetrovirus,2
+YP_009666045,"unnamed protein product, partial ",Other,Kirsten murine sarcoma virus, Orthoretrovirinae, Gammaretrovirus,1
+YP_009666125,gag protein ,Gag,Guenon simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009666126,pol protein ,Polymerase,Guenon simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009666127,env protein ,Envelope,Guenon simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009666128,bet protein ,Other,Guenon simian foamy virus, Spumaretrovirinae,Spumavirus,3
+YP_009666129,tas protein ,Other,Guenon simian foamy virus, Spumaretrovirinae,Spumavirus,3
