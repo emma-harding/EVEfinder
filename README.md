@@ -1,5 +1,5 @@
 # EVEfinder
-Version of EVEfinder used for "Invasion and amplification of endogenous retroviruses in Dasyuridae marsupials" (Nov 2023).
+Version of EVEfinder used for "Invasion and amplification of endogenous retroviruses in Dasyuridae marsupials" (July 2024).
 
 Workflow to find EVEs from animal genomes
 
